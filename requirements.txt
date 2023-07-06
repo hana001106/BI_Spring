@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+matplotlib
+datetime
+calendar
+seaborn
+warnings
+scikit-learn
+lightgbm
+catboost
