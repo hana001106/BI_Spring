@@ -1,0 +1,13 @@
+channles:
+  -conda-forge
+dependencies:
+  -streamlit
+  -numpy
+  -pandas
+  -matplotlib
+  -datetime
+  -seaborn
+  -warnings
+  -scikit-learn
+  -lightgbm
+  -catboost
